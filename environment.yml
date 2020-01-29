@@ -1,0 +1,6 @@
+name: geosc487
+dependencies:
+ - numpy
+ - pandas
+ - plotly
+ 
